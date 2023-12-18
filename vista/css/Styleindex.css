@@ -1,0 +1,62 @@
+/* le da formato a la imagen del logo*/
+#logo{
+    margin-top: -60px;
+    float: left;
+    height: 220px;
+    width: 220px;
+}
+
+/*le da formato y color a la lestras que dien EXPEDIENTE CLINICO EN NUBE*/
+.encabezado{
+    margin-top:80px;
+    margin-left: 200px;
+    font-size: 70px;
+    color: #67eafc;
+}
+
+/*le da color a lo del centro de la pagina, lo que contiene el formulario*/
+.contenedor_formulario{
+    border-radius: 15px;
+    height: 400px;
+    width: 400px;
+    background: #67eafc;
+    padding: 25px;
+    margin: 25px;
+    font-size: 27px;
+}
+
+.contenedor_doctor{
+    border-radius: 15px;
+    height: 600px;
+    width: 450px;
+    background: #67eafc;
+    padding: 25px;
+    margin: 25px;
+    font-size: 18px;
+}
+
+.contenedor_paciente{
+    border-radius: 15px;
+    height: 650px;
+    width: 450px;
+    background: #67eafc;
+    padding: 25px;
+    margin: 25px;
+    font-size: 18px;
+}
+/*le da formato redondo a los input para ingresar los datos*/
+input{
+   border-radius: 10px;
+   height: 30px;
+   width:350px;   
+}
+
+/*les da color y formarto redondo a los botones*/
+button{
+    border-radius: 12px;
+    border-bottom-color: blue;
+    background-color: red;
+    font-size: 18px;
+    height: 60px;
+    width:220px;
+}
