@@ -2,6 +2,9 @@
 
 Portal para aministracion holtelera.
 
-*Permite registrar y visualizar ingresos y egresos.
-*Permite registar equipo y consumibles del hotel.
-*Permite agendar matenimientos del equipo.
+**Permite:
+  >Registrar y visualizar ingresos y egresos.
+  
+  >Registar equipo y consumibles del hotel.
+  
+  >Agendar matenimientos del equipo.
